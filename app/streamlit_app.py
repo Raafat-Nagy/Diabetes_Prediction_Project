@@ -12,7 +12,7 @@ st.title("Diabetes Prediction")
 st.header("Feature Descriptions")
 st.markdown(
     """
-- **Pregnancies**: Number of times pregnant
+- **Pregnancies**: Number of times pregnant for (Female)
 - **Glucose**: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 - **BloodPressure**: Diastolic blood pressure (mm Hg)
 - **SkinThickness**: Triceps skin fold thickness (mm)
