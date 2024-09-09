@@ -1,4 +1,4 @@
-# Diabetes Classification Project
+# [Diabetes Classification Project](https://diabetes-prediction--project.streamlit.app)
 
 ## Project Overview
 
