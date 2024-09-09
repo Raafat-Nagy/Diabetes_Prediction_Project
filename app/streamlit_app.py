@@ -19,7 +19,7 @@ st.markdown(
 - **Insulin**: 2-Hour serum insulin (mu U/ml)
 - **BMI**: Body mass index (weight in kg/(height in m)²)
 - **DiabetesPedigreeFunction**: Diabetes pedigree function
-- **Age**: Age (years)
+- **Age**: Age in years
 - **Outcome**:(Not-Diabetic, Diabetic)
 """
 )
